@@ -1,0 +1,166 @@
+
+body {
+    font-family: Poppins, sans-serif;
+}
+p {
+    font-size: 14px;
+    line-height: 2;
+}
+
+.nav {
+    width: 50%;
+    float: right;
+    margin-top: 30px;
+}
+.nav ul {}
+
+.nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+.nav ul li a {
+    padding: 10px;
+    color: #3B3B3B;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+section.menu {
+    overflow: hidden;
+}
+.blog {
+    width: 46%;
+    float: left;
+    margin-top: 104px;
+}
+
+.blog-right {
+    float: right;
+    width: 51%;
+}
+
+img {
+    max-width: 100%;
+}
+
+section.portfolio {
+    overflow: hidden;
+    margin: 50px 0px;
+}
+
+.blog h1 {
+    font-size: 37px;
+    text-transform: uppercase;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+h2#big {
+    text-transform: uppercase;
+    font-size: 38px;
+    color: red;
+}
+.blog p {
+    text-transform: capitalize;
+    font-size: 14px;
+}
+
+.blog button {
+    padding: 14px 39px;
+    text-transform: capitalize;
+    background: #ff4242;
+    border: navajowhite;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.blog-right button {
+    padding: 14px 39px;
+    text-transform: capitalize;
+    background: #ff4242;
+    border: navajowhite;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.blog.blog-r img {
+    width: 59%;
+}
+
+h1.right-text {
+    font-size: 40px;
+}
+img{
+    max-width: 100%
+}
+section.latest {
+    background: #e4e4e4;
+    padding-bottom: 150px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper h2 {
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.wrapper h2 span {
+    color: #ff4242;
+}
+.box1 {
+    width: 30%;
+    float: left;
+    margin-left: 32px;
+}
+
+.box1 h1 {
+    margin: 10px 0px;
+}
+
+.box1 p {
+    font-size: 13px;
+}
+.box-wrapper {
+    overflow: hidden;
+}
+section.work {
+    height: 300px;
+}
+
+.work-in {
+    width: 55%;
+    margin-top: 80px;
+    margin: 0 auto;
+    background: url(shapes/Group_33094_1.png);
+    background-size: cover;
+    height: 160px;
+    border-radius: 28px;
+}
+.word-ex {
+    margin-top: 60px;
+}
+
+.work-in.word-ex h1 {
+    float: left;
+    margin: 60px 40px;
+    color: white;
+}
+
+.work-in.word-ex button {
+    float: right;
+    padding: 20px;
+    border: none;
+    margin: 54px 58px;
+    background: #ff4242;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.info {margin: 0 auto;width: 24%;margin-top: 30px;}
